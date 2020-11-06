@@ -6,6 +6,6 @@ namespace ProyectoFinalCiclo
 {
     class Class1
     {
-        int entornos = 2;
+        int entornos = 3;
     }
 }
